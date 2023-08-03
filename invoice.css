@@ -347,6 +347,7 @@ header{
     font-weight: 600;
     padding-bottom: 7px;
     color: var(--bg-color);
+    width: 50px;
 }
 
 
@@ -360,6 +361,7 @@ header{
 
 .ck-card2 .number .date-no{
     padding-bottom: 9px;
+    width: 50px;
 }
 
 /* check end  */
